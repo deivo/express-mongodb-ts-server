@@ -1,0 +1,1 @@
+{"version":3,"file":"HttpException.js","sourceRoot":"","sources":["../../src/exceptions/HttpException.ts"],"names":[],"mappings":";;AAAA,MAAM,aAAc,SAAQ,KAAK;IAC7B,YAAmB,MAAc,EAAS,OAAe,EAAS,MAAY;QAC1E,KAAK,CAAC,OAAO,CAAC,CAAC;QADA,WAAM,GAAN,MAAM,CAAQ;QAAS,YAAO,GAAP,OAAO,CAAQ;QAAS,WAAM,GAAN,MAAM,CAAM;IAE9E,CAAC;CACJ;AACD,kBAAe,aAAa,CAAC"}
